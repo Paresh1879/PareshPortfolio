@@ -3,7 +3,7 @@ Live Preview - [Click Here](https://salesp07.github.io/)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/mockup.png" />
+  <img alt="Demo" src="/mockup.png" />
 </div>
 <br/>
 <br/>
