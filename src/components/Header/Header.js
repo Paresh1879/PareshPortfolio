@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
         <a
   className="btn PrimaryBtn"
-  href="Resume.pdf"
+  href="WebsiteResume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   style={{ backgroundColor: '#1195C9' }}

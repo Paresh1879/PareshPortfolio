@@ -1,13 +1,12 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/Calculator.png",
-    title: "Calculator",
-    description:
-      "A simple calculator app",
-    tech_stack: ["HTML", "CSS", "Javascript"],
-    github_url: "https://github.com/Paresh1879/Calculator",
-    demo_url: "https://calculatorpar3sh.netlify.app/",
+    img: "/Pybot.png",
+    title: "Pybot",
+    description:"I've developed a  chatbot using Python  and machine learning techniques. This is made by natural language processing algorithms, enabling it to understand and respond to user queries about python.",    
+    tech_stack: ["Python", "NLTK"],
+    github_url: "https://github.com/Paresh1879/Pybot",
+    demo_url: "",
   },
   {
     img: "/Rememberthecolorgame.png",
@@ -19,13 +18,22 @@ export const ProjectList = [
     demo_url: "https://rememberthecolorgame.netlify.app",
   },
   {
-    img: "/youtube.png",
-    title: "YoutubeClone",
+    img: "/fraud.png",
+    title: "Credit Card Fraud Detection Analysis",
     description:
-      "A frontend clone of Youtube.",
-    tech_stack: ["HTML", "CSS", "Javascript", "API"],
-    github_url: "https://github.com/Paresh1879/youtubecloneapi",
-    demo_url: "https://par3shyoutubeclone.netlify.app",
+      "Fraud Detection using Python and ML Techniques",
+    tech_stack: ["Python","Machine Learning"],
+    github_url: "https://github.com/Paresh1879/Fraud-Detection",
+    demo_url: "https://colab.research.google.com/drive/1z1sT818Es9uyT5trnn43kA5K5NsV22q4?usp=sharing",
+  },
+  {
+    img: "/carsales.png",
+    title: "Car Sales Analysis",
+    description:
+      "Analysis done on Car Data using Python and ML Techniques",
+    tech_stack: ["Python","Machine Learning"],
+    github_url: "https://github.com/Paresh1879/CarSales-Analysis",
+    demo_url: "https://colab.research.google.com/drive/19KSTwtlAb3prEEUuqkTpbk8eY3GxpC0g?usp=sharing",
   },
   {
     img: "/SCA.png",
@@ -35,15 +43,6 @@ export const ProjectList = [
     tech_stack: [ "Python"],
     github_url: "https://github.com/Paresh1879/SuddenCardiacArrest---Patient-Identification",
     demo_url: "https://colab.research.google.com/drive/1sFIZYXsAvA6UjBL9lB6h0BKQY9mtGCRH?usp=sharing",
-  },
-  {
-    img: "/NeighborhoodWatch.png",
-    title: "Neighborhood Watch",
-    description:
-      "Neighborhood Watch is an application that filters safe neighborhoods based on crime statistics provided by the police department.",
-    tech_stack: ["HTMl", "CSS", "C#", "JSON Parsing", "RestAPI"],
-    github_url: "https://github.com/adityarajs00/IS7024",
-    demo_url: "https://neighborhoodwatch.azurewebsites.net/",
   },
 ];
 
@@ -95,8 +94,8 @@ export const stackList = [
     name: "AWS",
   },
   {
-    img: "mongodb.svg",
-    name: "MongoDB",
+    img: "pytorch.svg",
+    name: "Pytorch",
   },
   {
     img: "python.svg",
@@ -111,12 +110,12 @@ export const stackList = [
     name: "C#",
   },
   {
-    img: "java.svg",
-    name: "Java",
+    img: "tensorflow.svg",
+    name: "Tensorflow",
   },
   {
     img: "mysql.svg",
-    name: "MySQL",
+    name: "SQL",
   },
   {
     img: "bootstrap.svg",
@@ -127,7 +126,7 @@ export const stackList = [
     name: "VS Code",
   },
   {
-    img: "visio.svg",
-    name: "Visio",
+    img: "deeplearning.svg",
+    name: "DeepLearning",
   },
 ];

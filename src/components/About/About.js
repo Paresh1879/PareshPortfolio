@@ -23,18 +23,17 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! I'm Paresh Natarajan, currently pursuing my Master's in Information Systems at the University of Cincinnati. Originally from India, I come with valuable experience as a Software Engineer at Cognizant, specializing in Cloud Services for an energy and utilities company.            </ScrollAnimation>
+            Hello! I'm Paresh Natarajan, a seasoned Software Engineer with over 2 years of experience specializing in automating CI/CD pipelines in Azure and maintaining cloud infrastructure by deploying and scaling applications. I hold a bachelor's degree in Electronics and Communication Engineering and am currently pursuing a Master of Science in Information Systems from the University of Cincinnati, with a graduate certificate in data analytics</ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            During my time at Cognizant, I focused on efficiently managing cloud services on both AWS and Azure platforms. I have a strong track record of delivering scalable and reliable solutions. Specifically, I've worked with AWS services such as Lambda and EC2, harnessing their power to ensure seamless performance and high availability.
-            </ScrollAnimation>
+            During my time as a Software Engineer, I focused on leveraging AWS and Azure services to streamline development processes and ensure seamless application performance. I have a strong track record of optimizing cloud infrastructure and delivering scalable solutions. My expertise extends to containerization technologies like Docker and Kubernetes for orchestration, enabling successful deployment of microservices and significant improvements in application performance.            </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-            My expertise extends to containerization technologies like Docker and Kubernetes, enabling the successful deployment of microservices. This has led to substantial upgrades and improvements in application performance. In addition to container orchestration, I am proficient in utilizing Azure DevOps to streamline the software development lifecycle. This includes efficient collaboration, continuous integration, and continuous delivery, ensuring a smooth and automated release process. When it comes to data management, I am skilled in using SQL databases, ensuring effective organization and utilization of critical information.   <div className="tagline2">
+            In addition to my technical skills, my coursework in data analytics has equipped me with the knowledge and tools to analyze data, apply algorithms, and utilize machine learning techniques to extract meaningful insights for informed decision-making. With my background in application development, DevOps engineering, and data analytics, I am eager to advance in ML/AI and contribute to innovative projects that drive business growth and success. <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
             </ScrollAnimation>
