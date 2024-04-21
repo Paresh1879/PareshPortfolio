@@ -23,7 +23,7 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! I'm Paresh Natarajan, a seasoned Software Engineer with over 2 years of experience specializing in automating CI/CD pipelines in Azure and maintaining cloud infrastructure by deploying and scaling applications. I hold a bachelor's degree in Electronics and Communication Engineering and am currently pursuing a Master of Science in Information Systems from the University of Cincinnati, with a graduate certificate in data analytics</ScrollAnimation>
+            Hi there! I'm Paresh Natarajan, a seasoned Software Engineer with over 2 years of experience specializing in automating CI/CD pipelines in Azure and maintaining cloud infrastructure by deploying and scaling applications. I hold a bachelor's degree in Electronics and Communication Engineering and am currently pursuing a Master of Science in Information Systems from the University of Cincinnati, with a graduate certificate in data analytics</ScrollAnimation>
 
             <br /><br />
             
