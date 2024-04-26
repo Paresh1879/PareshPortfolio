@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/Pybot.png",
+    img: "/pybot.png",
     title: "Pybot",
     description:"I've developed a  chatbot using Python  and machine learning techniques. This is made by natural language processing algorithms, enabling it to understand and respond to user queries about python.",    
     tech_stack: ["Python", "NLTK", "Flask","MLOps","Docker", "Azure"],
