@@ -1,30 +1,31 @@
+## Paresh - Portfolio Website 
 
-# 🛠 Installation and Setup Instructions
-
-1. Fork and clone this repository. You will need NodeJs and Git installed on your machine..
-
-2. Installation: `npm install --legacy-peer-deps`
-
-3. In the project directory, you can run: `npm start`\
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-# Usage Instructions
-
-1. Open the project folder and Navigate to `/src/assets/data` and add your projects details.
-
-2. You will find all the components used and you can edit your information accordingly.
-
-# Deploy with Github Pages
-
-1. Name your fork `<your-github-username>.github.io`
-2. Edit the `homepage` property on your `package.json` file
-
-      `"homepage": "http://<your-github-username>.github.io/"`
+This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experiences.
 
 
-3. Deploy the app on vercel
+## Project Overview
 
-Give a ⭐ if you like this website!
-# PareshPortfolioSite
-# PareshPortfolioSite
+This project serves as my personal portfolio website, where I showcase my projects, skills, and experiences to potential employers and collaborators.
+
+## Demo
+
+Check out the live demo of my portfolio website [here](https://pareshportfolio.vercel.app/).
+
+## Technologies Used
+
+- Frontend: HTML, CSS, JavaScript, ReactJS
+- Backend: NodeJS
+- Deployment: Vercel
+- Version Control: Git, GitHub
+
+## Setup Instructions
+
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the application using `npm start`.
+4. Access the application at `http://localhost:3000`.
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests to suggest improvements or add new features.
+
